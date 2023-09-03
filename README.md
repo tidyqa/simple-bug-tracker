@@ -5,7 +5,7 @@ This extension has been developed for educational purposes, providing you with a
 - **Learn by Doing:** It's absolutely free to download, modify, and use as you see fit. Feel empowered to experiment with the code, customize features, and make it your own.
 - **Modify and Enhance:** You have the freedom to modify the codebase according to your preferences. Add new features, experiment with different functionalities, and make the extension align with your learning goals.
 - **Privacy-Focused:** Rest assured that the extension operates within your browser's environment and respects your privacy. You have full control over the data and interactions.
-- 
+
 ## Key Features
 
 - **Effortless Bug Reporting:** Easily report bugs by providing bug descriptions and associating them with specific website URLs.
