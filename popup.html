@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Set the title of the web page -->
+  <title>TidyQA Simple Bug Tracker</title> 
+  <!-- Link an external stylesheet for styling -->
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <!-- Create a form for bug reporting -->
+  <form autocomplete="off" id="bugReportForm">
+    <!-- Container for bug input -->
+    <div class="bug-input">
+      <!-- Input field for bug description with a placeholder -->
+      <input type="text" id="bugDescription" placeholder="Enter bug description...">
+      <!-- Submit button to submit the bug report -->
+      <button type="submit">+</button>
+    </div>
+  </form>
+<!-- Container to display the list of bugs -->
+  <div id="bugs-list"></div>
+<!-- Include an external JavaScript file for interactivity -->
+  <script src="popup.js"></script>
+</body>
+</html>
